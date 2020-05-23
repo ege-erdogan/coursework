@@ -11,7 +11,8 @@ Courses:
 * [Operating Systems](#operating-systems)
 * [Coursera Machine Learning](#coursera-machine-learning)
 
-## Digital Design (Spring '19)
+## Digital Design 
+**(Spring '19)**
 
 * [Encoding letters in Morse code and signaling with a speaker. ](https://github.com/ege-erdogan/lab-project) Group term project. Implemented using an FPGA board and a speaker.
 
