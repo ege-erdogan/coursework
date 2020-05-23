@@ -1,6 +1,6 @@
 # Course Projects
 
-Some of the projects (personal or group work) I've completed for my undergraduate education.
+An inconclusive list of projects (personal or group work) I've completed for my undergraduate education.
 
 Courses:
 * [Digital Design](#digital-design)
