@@ -32,6 +32,8 @@ Courses:
 ## Computer Networks 
 **(Spring '20)**
 
+* [Distributed routing simulation with dynamic costs.](https://github.com/comp416-network/project3) Group project to implement a distributed routing simulator to calculate shortest paths between nodes in a network.
+
 * [SSL client and server example program.](https://github.com/comp416-network/project2-codes) Group project to experiment with the SSL protocol. Implemented in Java.
 
 * Networked game application [server](https://github.com/comp416-network/project1-master-follower) and [client.](https://github.com/comp416-network/project1-client) Group project. Implemented in Java.
