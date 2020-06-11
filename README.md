@@ -41,6 +41,8 @@ Courses:
 ## Operating Systems 
 **(Spring '20)**
 
+* [Contiguous and linked file allocation methods implementation in Java.](https://github.com/ege-erdogan/comp304-project3) 
+
 * [Scheduling planes using the Linux POSIX threads API.](https://github.com/ege-erdogan/comp304-project2) 
 
 * [Custom shell implementation on Linux.](https://github.com/comp305project/shellgibi) Group project for a basic shell implementation on Linux, written in C. Includes pipes, background processes, job scheduling, and additional custom commands. 
