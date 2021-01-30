@@ -3,13 +3,15 @@
 An inconclusive list of projects (personal or group work) I've completed for my undergraduate education.
 
 Courses:
-* [Digital Design](#digital-design)
-* [Computer Architecture](#computer-architecture)
-* [Software Engineering](#software-engineering)
-* [Machine Learning](#machine-learning)
-* [Computer Networks](#computer-networks)
-* [Operating Systems](#operating-systems)
-* [Coursera Machine Learning](#coursera-machine-learning)
+- [Course Projects](#course-projects)
+  - [Digital Design](#digital-design)
+  - [Computer Architecture](#computer-architecture)
+  - [Software Engineering](#software-engineering)
+  - [Machine Learning](#machine-learning)
+  - [Computer Networks](#computer-networks)
+  - [Operating Systems](#operating-systems)
+  - [Intro to AI](#intro-to-ai)
+  - [Coursera Machine Learning](#coursera-machine-learning)
 
 ## Digital Design 
 **(Spring '19)**
@@ -41,11 +43,15 @@ Courses:
 ## Operating Systems 
 **(Spring '20)**
 
-* [Contiguous and linked file allocation methods implementation in Java.](https://github.com/ege-erdogan/comp304-project3) 
+* [Contiguous and linked file allocation methods implementation in Java.](https://github.com/ege-erdogan/comp304-project3)
 
 * [Scheduling planes using the Linux POSIX threads API.](https://github.com/ege-erdogan/comp304-project2) 
 
 * [Custom shell implementation on Linux.](https://github.com/comp305project/shellgibi) Group project for a basic shell implementation on Linux, written in C. Includes pipes, background processes, job scheduling, and additional custom commands. 
+
+## Intro to AI
+**(Fall '20)**
+* [Projects following the Berkeley AI course](https://github.com/ege-erdogan/ai-projects)
 
 ## Coursera Machine Learning
 **2019**
